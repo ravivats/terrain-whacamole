@@ -24,3 +24,5 @@ g++ -std=c++11 main.cpp -o test -lSOIL -lGLEW -lglfw -lGL -lX11 -lXi -lXrandr -l
 2. Up,Down arrow keys to increase/decrease the height of terrain.
 3. Left,Right arrow keys for zoom in/zoom out.
 4. A,S keys to increase/decrease the amplitude of sea-waves.
+
+For more info: http://stackoverflow.com/questions/17768008/how-to-build-install-glfw-3-and-use-it-in-a-linux-project
