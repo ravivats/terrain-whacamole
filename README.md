@@ -16,7 +16,7 @@ Open the ubuntu terminal and paste the following:
 6. sudo apt-get install libglfw3-dev
 
 # To run main.cpp: 
-Open the ubuntu terminal and paste the following:
+Open the ubuntu terminal, cd to the project directory and paste the following:
 g++ -std=c++11 main.cpp -o test -lSOIL -lGLEW -lglfw -lGL -lX11 -lXi -lXrandr -lXxf86vm -lXinerama -lXcursor -lrt -lm -pthread
 
 # Simulation Controls: 
