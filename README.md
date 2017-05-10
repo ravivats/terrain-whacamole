@@ -21,4 +21,6 @@ g++ -std=c++11 main.cpp -o test -lSOIL -lGLEW -lglfw -lGL -lX11 -lXi -lXrandr -l
 
 # Simulation Controls: 
 1. K,L keys to start/stop rotation.
-2. Up, Down arrow keys for increasing/decreasing the height of terrain.
+2. Up,Down arrow keys to increase/decrease the height of terrain.
+3. Left,Right arrow keys for zoom in/zoom out.
+4. A,S keys to increase/decrease the amplitude of sea-waves.
